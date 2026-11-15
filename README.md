@@ -35,3 +35,14 @@ The form intentionally launches the visitor's SMS app with a prefilled message t
 - Responsive layout, accessible FAQ, HTML5 form validation, structured data, metadata, canonical, sitemap and robots.
 - No invented testimonials, financing, warranties, certifications or years in business.
 - For best Core Web Vitals, replace remote stock CSS background images with locally optimized owner-approved images.
+
+## Premium refresh (2026-11-15)
+
+- Reworked the hero and service copy around Miami homeowners' high-intent landscaping problems.
+- Added an editorial photography story, richer imagery, stronger social proof context, a value proposition strip and refined responsive styling.
+- Every service card now preselects the relevant service in the quote form.
+- Hero image is requested at 2400px wide; editorial images up to 2000px and service cards at 1600px via Unsplash Image CDN with automatic format selection.
+- Stock photography is illustrative, not represented as completed BNB jobs. Replace with permissioned, high-resolution before/after project photos for the highest-performing final portfolio.
+- Existing review counts and hours conflict across third-party listings; verify facts with the owner before advertising exact figures.
+- Conversion remains SMS-first; a production-ready server-side lead pipeline (email or CRM + anti-spam) is not included.
+
